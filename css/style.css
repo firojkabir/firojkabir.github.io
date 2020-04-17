@@ -7937,6 +7937,12 @@ header {
   .exp-wrap .year {
     width: 150px; }
 
+.exp-wrap-dashed {
+  width: 100%;
+  border-bottom: 3px dashed #1a1a1a;
+  float: left;
+}
+
 .progress-wrap {
   margin-bottom: 30px; }
   .progress-wrap h4 {
