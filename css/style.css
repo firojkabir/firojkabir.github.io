@@ -8590,6 +8590,14 @@ textarea.form-control {
       margin: 0 10px;
       opacity: .5; }
 
+.project-img {
+  transition: transform .5s;
+}
+
+.project-img:hover {
+  transform: scale(1.1);
+}
+
 .tagcloud a {
   text-transform: uppercase;
   display: inline-block;
